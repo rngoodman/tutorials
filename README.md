@@ -1,4 +1,4 @@
-# Bioinformatics Tutorials by @Another-Goodman
+# Bioinformatics Tutorials and Workflows
 
 A repository of repositories containing bioinformatics tutorials.
 
