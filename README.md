@@ -1,6 +1,8 @@
-# Bioinformatics Tutorials by @Another Goodman
+# Bioinformatics Tutorials by @Another-Goodman
 
 A repository of repositories containing bioinformatics tutorials.
+
+/
 
 ## R programming
 
@@ -11,6 +13,8 @@ A look at the basics of the R programming language to get you up and running on 
 ### 📝 [R markdown](https://github.com/Another-Goodman/co-occurrence-analysis)
 
 A guide to the basics of R markdown and how to upload a project onto Github from R studio.
+
+/
 
 ## Co-occurrence analysis
 
