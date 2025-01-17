@@ -6,11 +6,11 @@ A repository of repositories containing bioinformatics tutorials.
 
 ## R programming
 
-### 🏃‍♂ [R boot camp](https://github.com/Another-Goodman/co-occurrence-analysis)
+### 🏃‍♂ [R boot camp](https://github.com/Another-Goodman/R-boot-camp)
 
 A look at the basics of the R programming language to get you up and running on R. This bootcamp covers the following the installation of R & R Studio, the basics of R and how to read in data and inspect its contents.
 
-### 📝 [R markdown](https://github.com/Another-Goodman/co-occurrence-analysis)
+### 📝 [R markdown](https://github.com/Another-Goodman/R-Markdown-Basics)
 
 A guide to the basics of R markdown and how to upload a project onto Github from R studio.
 
