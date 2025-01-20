@@ -16,7 +16,7 @@ A guide to the basics of R markdown and how to upload a project onto Github from
 
 ## Comparative Genomics
 
-### 🔘 [Circular genome comparison](https://github.com/Another-Goodman/circular-genome-comparisons))
+### 🔘 [Circular genome comparison](https://github.com/Another-Goodman/circular-genome-comparisons)
 Visualisation of BLAST genome alignments with circos plots in R. 
 
 
