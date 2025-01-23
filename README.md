@@ -1,6 +1,6 @@
 # Bioinformatics Tutorials and Workflows
 
-A repository of repositories containing bioinformatics tutorials.
+📚 A repository of repositories containing bioinformatics tutorials.
 
 
 
