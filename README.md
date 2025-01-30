@@ -2,7 +2,7 @@
 
 📚 A repository of repositories containing bioinformatics tutorials.
 
-
+View as a [web page](https://rngoodman.github.io/tutorials/) or [Github repository](https://github.com/rngoodman/tutorials).
 
 ## R programming
 
