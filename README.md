@@ -22,13 +22,13 @@ Visualisation of BLAST genome alignments with circos plots in R.
 ## Metagenomics & microbiome analysis
 
 ### 🦠 [Clustering Human Microbiome Project (HMP) 16S rRNA data](https://github.com/rngoodman/clustering-HMP-data)
-This workflow uses the Phyloseq package in R to cluster 16S rRNA data from the human microbiome project (HMP) and determine if it corresponds to a body site, such as saliva, stool, or sebum. The HMPv35 dataset, sequenced from amplicons of the rRNA 16S variable regions 3-5, is used.
+This workflow uses the Phyloseq package in R to cluster 16S rRNA data from the human microbiome project (HMP) and determine if it corresponds to a body site, such as saliva, stool, or sebum. The HMPv35 dataset is used which was sequenced from amplicons of the rRNA 16S variable regions 3-5.
 
 ## Co-occurrence analysis
 
 ### ↔️ [Co-occurence analysis of AMR genes](https://github.com/rngoodman/co-occurrence-analysis)
 
-Co-occurrence analysis of AMR genes highlights the genetic location of AMR genes relative to each other across genomes with short-read genomic data. 
+A guide to co-occurrence analysis of AMR genes which highlights the genetic location of AMR genes relative to each other across genomes with short-read genomic data. 
 
 
 
