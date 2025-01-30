@@ -28,7 +28,7 @@ This workflow uses the Phyloseq package in R to cluster 16S rRNA data from the h
 
 ### ↔️ [Co-occurence analysis of AMR genes](https://github.com/rngoodman/co-occurrence-analysis)
 
-Co-occurrence analysis of AMR genes highlights the genetic location of AMR genes relative to each other across genomes. Since short read sequencing makes de novo genome assembly difficult at the site of repeated sequences, which cannot be bridged if the reads are shorter than the repeat length, we used co-occurrence analysis to overcome these limitations of short-read sequencing. Co-occurrence analysis allows for the comparison of genetic interactions across genomes. It can show which genes are carried together hinting at carriage on the same or different replicons. We ran a probabilistic analysis of gene co-occurrence to understand the genetic location of AMR genes relative to each other in short-read genomic data. 
+Co-occurrence analysis of AMR genes highlights the genetic location of AMR genes relative to each other across genomes with short-read genomic data. 
 
 
 
