@@ -32,7 +32,7 @@ A guide to co-occurrence analysis of AMR genes which highlights the genetic loca
 
 ## Workflows
 
-### ➡️ [ShortSeeker](https://github.com/rngoodman/ShortSeeker)
+### 🧬 [ShortSeeker](https://github.com/rngoodman/ShortSeeker)
 
 An automated short-read bacterial genome assembly and analysis tool implemented in Snakemake. It takes paired-end gzipped fastq short-read files. It assembles and analyses the genomes producing a html report with MLST sequence typing and acquired AMR genes for multiple genomes.
 
