@@ -1,6 +1,6 @@
 # Bioinformatics Tutorials and Workflows
 
-📚 A repository of repositories containing bioinformatics tutorials.
+📚 A repository of repositories containing bioinformatics tutorials and workflows.
 
 View as a [web page](https://rngoodman.github.io/tutorials/) or [Github repository](https://github.com/rngoodman/tutorials).
 
