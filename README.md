@@ -19,6 +19,9 @@ A guide to the basics of R markdown and how to upload a project onto Github from
 ### 🔘 [Circular genome comparison](https://github.com/rngoodman/circular-genome-comparisons)
 Visualisation of BLAST genome alignments with circos plots in R.
 
+### 🪜 [ANI and SNP distances matrices](https://github.com/rngoodman/ANI-and-SNP-distances)
+ANI and SNP distances together provide information about the relatedness of isolates. This workflow takes *n* genomes and compares them against each other to determine ANI % and SNP numbers, visualising both as heatmaps in python. 
+
 ## Metagenomics & microbiome analysis
 
 ### 🦠 [Clustering Human Microbiome Project (HMP) 16S rRNA data](https://github.com/rngoodman/clustering-HMP-data)
