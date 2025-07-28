@@ -27,6 +27,9 @@ ANI and SNP distances together provide information about the relatedness of isol
 ### 🦠 [Clustering Human Microbiome Project (HMP) 16S rRNA data](https://github.com/rngoodman/clustering-HMP-data)
 This workflow uses the Phyloseq package in R to cluster 16S rRNA data from the human microbiome project (HMP) and determine if it corresponds to a body site, such as saliva, stool, or sebum. The HMPv35 dataset is used which was sequenced from amplicons of the rRNA 16S variable regions 3-5.
 
+### 🦠 [Taxonomic based metagenomic analysis](https://rngoodman.github.io/noma-metagenomics/code/Noma_vs_healthy.html)
+This workflow uses miaverse packages in R to analyse short-read (Illumina) taxonomic-based metagenomic analysis of noma vs healthy human saliva samples. 
+
 ## Co-occurrence analysis
 
 ### ↔️ [Co-occurence analysis of AMR genes](https://github.com/rngoodman/co-occurrence-analysis)
