@@ -38,7 +38,7 @@ A guide to co-occurrence analysis of AMR genes which highlights the genetic loca
 
 ## Machine Learning 
 
-### 🌳 [Using Random Forests to classify microbial species according to diseased and healthy states](https://rngoodman.github.io/noma-metagenomics/code/Noma_vs_healthy.html#random-forests-1)
+### 🌳 [Using Random Forests to classify microbial species according to diseased and healthy states](https://rngoodman.github.io/noma-metagenomics/code/Noma_vs_healthy.html#preparing-the-data-2)
 This analysis uses random forest classifiers (a supervised learning algorithm) to identify key predictors of microbial community composition and their association with noma or healthy states. For the context of this analysis see the full workflow [here](https://rngoodman.github.io/noma-metagenomics/code/Noma_vs_healthy.html).
 
 ## Workflows
