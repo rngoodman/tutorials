@@ -22,6 +22,9 @@ Visualisation of BLAST genome alignments with circos plots in R.
 ### 🪜 [ANI and SNP distances matrices](https://github.com/rngoodman/ANI-and-SNP-distances)
 ANI and SNP distances together provide information about the relatedness of isolates. This workflow takes *n* genomes and compares them against each other to determine ANI % and SNP numbers, visualising both as heatmaps in python. 
 
+### 📍 [Geospatial plotting of ANI connections](https://rngoodman.github.io/trycycle-ESBL-E-jakarta/code/Fig_3B_Geospatial_plotting_ANI_strain_distance_Jakarta_Indonesia.html)
+Geospatial mapping of ANI connections between bacterial strains at different geographical locations in Indonesia. 
+
 ## Metagenomics & microbiome analysis
 
 ### 🦠 [Clustering Human Microbiome Project (HMP) 16S rRNA data](https://github.com/rngoodman/clustering-HMP-data)
